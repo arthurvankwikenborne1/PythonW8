@@ -7,3 +7,5 @@ except ValueError as err:
 	print(err)
 finally:
 	print("altijd")
+
+#wijzigingen
